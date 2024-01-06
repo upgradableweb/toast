@@ -1,20 +1,24 @@
 {
-  "name": "tooltip",
+  "name": "@upgradableweb/tooltip",
   "version": "1.0.0",
-  "description": "conpact toast functionality for react or next js application",
+  "description": "conpact tooltip functionality for react or next js application",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["tooltip","react tooltip","@upgradableweb"],
+  "keywords": [
+    "tooltip",
+    "react tooltip",
+    "@upgradableweb"
+  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/upgradableweb/toast.git"
+    "url": "git+https://github.com/upgradableweb/tooltip.git"
   },
   "author": "bharat",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/upgradableweb/toast/issues"
+    "url": "https://github.com/upgradableweb/tooltip/issues"
   },
-  "homepage": "https://github.com/upgradableweb/toast#readme"
+  "homepage": "https://github.com/upgradableweb/tooltip#readme"
 }
